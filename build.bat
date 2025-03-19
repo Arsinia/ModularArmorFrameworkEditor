@@ -1,0 +1,1 @@
+pyinstaller --onefile -y --noconsole ModularArmorEditor.py
